@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          noura karkoutly website
+          louna akkad
 
           <Button onClick={() => alert("click")}>Hello</Button>
         </a>
